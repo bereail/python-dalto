@@ -1,0 +1,11 @@
+los datos son: 
+
+nombre: bere
+ apelido: solohaga
+---------------nombre: clara
+ apelido: marnitez
+---------------nombre: lucia
+ apelido: fernandex
+---------------nombre: martina
+ apelido: dominguez
+---------------
